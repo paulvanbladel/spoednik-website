@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 summarylength = 25
-title = "Roxo | Creative Design Agency"
+title = "spoednik | Uw instroom van gevalideerde leads"
 [[menu.nav]]
 name = "Home"
 url = ""
